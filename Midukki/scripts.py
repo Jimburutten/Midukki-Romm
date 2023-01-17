@@ -1,5 +1,5 @@
 START_TXT = """
-Hello 👋 {mention} 
+Hello 🙋‍♀️ {mention} 
 
 I'm <b>{bot}</b> ✨ an advanced telegram Group management
 
