@@ -261,19 +261,19 @@ class vars(object):
             button()
                 (
                     "➕️ Add Me To Your Group ➕️",
-                        url=f"https://t.me/{Bots.BOT_USERNAME}?startgroup=new"
+                        url=f"https://t.me/Nima_alex_autofilter_bot?startgroup=new"
                 )
         ],
         [
             button()
                 (
                     "Support",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/Prime_entertainments_movies"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/prime_entertainmentss"
                 )
         ],
         [
@@ -347,24 +347,24 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Mo_Tech_YT"
+                        url="https://t.me/Prime_entertainments_movies"
                 ),
             button()
                 (
                     "Source",
-                        url="https://t.me/+sv5flNs7yew1OTk1"
+                        url="https://t.me/prime_entertainmentss"
                 )
         ],
         [
             button()
                 (
                     "Tutorial",
-                        url="https://youtu.be/63K9xkKMBoo"
+                        url="https://t.me/offlinevps"
                 ),
             button()
                 (
                     "Insta",
-                        url="https://www.instagram.com/mrk_yt_"
+                        url="https://t.me/Offlinevps"
                 )
         ],
         [
