@@ -5,7 +5,7 @@ I'm <b>{bot}</b> ✨ an advanced telegram Group management
 
 I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential..!
 
-Join <b><a href=http://t.me/Mo_Tech_YT>my news channel</a></b> to get information on all the latest updates
+Join <b><a href=https://t.me/prime_entertainmentss>my news channel</a></b> to get information on all the latest updates
 """
 
 HELP_TXT = """
@@ -27,7 +27,7 @@ ABOUT_TXT = """
 [{name}](t.me/{username}) Was created on September 4, 2022
 We are currently developing this bot, using only the Pyrogram library.
 
-➾ Developers : Muhammed
+➾ Developers : Dev
 ➾ Language : Python3
 ➾ Framework : Pyrogram
 ➾ Database : Mongo db
@@ -36,9 +36,9 @@ We are currently developing this bot, using only the Pyrogram library.
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
-Dev : [Muhammed](t.me/Pr0fess0r_99)
-Paytm : [Click Here](https://p.paytm.me/xCTH/7yzmtgie)
-  or UPI `motech8129@okaxis`
+Dev : [Dev](t.me/offlinevps)
+Paytm : [Click Here](https://t.me/offlinevps)
+  or UPI `dev129@fedrelbs`
 """
 
 STATUS_TXT = """
@@ -214,12 +214,12 @@ ADMIN_PANEL = """
 
 FILE_CAPTION_TXT = """{file_name}"""
 
-SPELLCHECK_TXT = """Hey Mr 
-Check Your Spelling 
+SPELLCHECK_TXT = """ʜᴇʀᴇ ɪs ᴡʜᴀᴛ ɪ ғᴏᴜɴᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ғᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ
+
 """
 
 IMDB_TEMPLATE_TXT = """
-🙋‍♂️ Hey {mention} Your Requested {query} is ready 👍
+🙋‍♂️ ʜᴇʏ {mention} ʜᴇʏ ʜᴇʀᴇ ɪs ᴡʜᴀᴛ ɪ ғᴏᴜɴᴅ ɪɴ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ғᴏʀ ʏᴏᴜʀ ǫᴜᴇʀʏ {query} ᴅᴏᴡɴʟᴏᴀᴅ ᴀɴᴅ ᴇɴᴊᴏʏ🥰
 """
 
 WELCOME_TXT = """
