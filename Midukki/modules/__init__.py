@@ -359,12 +359,12 @@ class vars(object):
             button()
                 (
                     "Tutorial",
-                        url="https://t.me/offlinevps"
+                        url="https://t.me/Dev_users"
                 ),
             button()
                 (
                     "Insta",
-                        url="https://t.me/Offlinevps"
+                        url="https://t.me/Dev_users"
                 )
         ],
         [
