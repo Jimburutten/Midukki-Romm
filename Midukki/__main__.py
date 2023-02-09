@@ -60,7 +60,7 @@ async def start_command(client: Midukki_RoboT, message: message()):
                     await message.reply(text="""𝚂𝙾𝚁𝚁𝚈 𝚂𝙸𝚁, 𝚈𝙾𝚄 𝙰𝚁𝙴 𝙱𝙰𝙽𝙽𝙴𝙳 𝚃𝙾 𝚄𝚂𝙴 𝙼𝙴""", disable_web_page_preview=True)                  
                     return
             except UserNotParticipant:
-                FORCES = ["https://te.legra.ph/file/e9cdece809e850783f5c3.jpg"]
+                FORCES = ["https://graph.org/file/2984e8b5e26601cfb047d.jpg"]
                 pr0fess0r_99 = [
                     [
                         button()
