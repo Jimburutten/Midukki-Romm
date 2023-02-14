@@ -37,7 +37,7 @@ DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
 
 Dev : [Dev](t.me/Dev_users)
-Paytm : [Click Here](https://t.me/offlinevps)
+Paytm : [Ask Something](https://t.me/Dev_users)
   or UPI `dev129@fedrelbs`
 """
 
