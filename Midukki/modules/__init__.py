@@ -268,12 +268,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Prime_entertainments_movies"
+                        url="https://t.me/Prime_cinimas"
                 ),
             button()
                 (
                     "Updates",
-                        url="https://t.me/prime_entertainmentss"
+                        url="https://t.me/prime_cinimas"
                 )
         ],
         [
@@ -347,12 +347,12 @@ class vars(object):
             button()
                 (
                     "Support",
-                        url="https://t.me/Prime_entertainments_movies"
+                        url="https://t.me/Prime_cinimas"
                 ),
             button()
                 (
                     "Source",
-                        url="https://t.me/prime_entertainmentss"
+                        url="https://t.me/prime_cinimas"
                 )
         ],
         [
