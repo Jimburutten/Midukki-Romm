@@ -1118,8 +1118,8 @@ async def check_correct_spelling(message, settings):
                     [
                         button()
                             (
-                                "🔍 Search In Google 🔎",
-                                    url="https://www.google.com/"
+                                "💻 DVD UPDATE 💻",
+                                    url="https://t.me/Madras_Enterprises"
                             )
                     ]
                 ]
@@ -1133,8 +1133,8 @@ async def check_correct_spelling(message, settings):
                     [
                         button()
                             (
-                                "🔍 Search In Google 🔎",
-                                    url="https://www.google.com/"
+                                "💻 DVD UPDATE 💻",
+                                    url="https://t.me/Madras_Enterprises"
                             )
                     ]
                 ]
